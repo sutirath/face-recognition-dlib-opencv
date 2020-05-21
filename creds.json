@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bee-tracking-6e414",
+  "private_key_id": "63cb8af970d4e199c679bf47842a200c08b274e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDauAHoPkJxaJ3V\nm0cOsXSI+riKIC71cjyEWwr/t7qtLCwMv4a4XZAa0QCpFQoOr4BdWae0ETKTNIEH\nzcZIw4eDfGZ7mLbOgaljXd9EkbiLQ6TaBV9bSTMF3fvcx6ffU2HnjrysZuppAqse\nJJ5kSdG5xgwite1CxsgBP0YA0JYAF6NzFNUU/OvO3EZsmfChRdZMayfx3UD4MCrw\nrZJe6PAqHXvEo4//zb/eZAFyA6ZVP2IBesrh+VrZ2Zg+WW7Zw88TsaFcoJIpknLV\nMk6GGaBd6bajUomYpk1YgYsrsEjYVWFPVyILZkC1Jq4bHM1mSrBdL2ww/KbdGBZ8\nlnqG7KG7AgMBAAECggEAVH1Ve0Ylu5KKuhvgMKxbVJjp1a3GBhnJh+V1k8ABNGlG\nYOxRmgHGq51GMIrIllC0eRsrnfMwws269G1Ipg4mWKQjIKanI5HSAeke2OmjzORm\nF7SQl/5oX+FXLHvR/QLEZMNuXfjpn4Qg3yWNLDeZ9TYstPHrQ+rvExBCtgjdkQ3Z\noQybvUHyQE31a5ZUHGevdbVKCr5B6sUrDpfiXPSkGU1IU0Hjfzn99KksLG8xUe5O\nC8PdL8xmqyslG7joWLRFb8IKIcyCE78H20BhFbdeBUNTX7j20+Kp0O8gnjKQzo0f\nPXgMpzqGrjir4iP9T3IS3OteK4XEZQPGG+9nVeYJYQKBgQD3CSG1zO53a5ssc4D8\n4YKW23T8gRUptcOml9VTJfoxQn8dtDosovviSnw2jnB9dq61+kFgbyTW4ZqU3GHH\nOdw/Pn81/nq0u9MWYMVOhtuEThXo4LAbvSFLiJMmsKSpPZ5Bj/TFw7AUopu5zcDB\nouP6uhv+xNB6HooSYQq1mSo/4QKBgQDip9KQUdKgg4zDGHEtXBdHnizAa4kXcj4a\nz4othy3YDHz0xxpKJa3j6+YLemldP4r2yQ/Qy5t+jyEAy5y3j1rnGp2u8VYlV7Ey\nwp6OL4sA+HMz3ZRaTW0TNXs7TnHUjKzxf+DHfAtbPgkyQAXsNaHkTxam+dtzoGJK\nY4nBFUiFGwKBgQDC6YyUgf5BcUC9AOFsJY5A8yTJuht1jnmxryjc8yEFzt63FCW2\nZF5zPKvm69or1AGjibIdoXQiq1ypSX1IkQmLSQdcFc7BXVT+2hmzjMoVCPtWhDnP\nmRl1HGxmYYd6FSkRt8C8bVs33Nkb8BC/d4ODp2ZBTQ7k28W7HKAziocAYQKBgQDB\nN0ds+BOR+hK5DdENVgAScWi87+8CKcV/nYSxoxcVoi+zizeCFfTS43pMNqIzd8PC\n9UuiNq/rh6AeyXRjlrVrZWkehWVmmAbausXnd+gLf8DVagLZqD9frKvMtuaaxwF3\nLgg0hi44Lf4w9BsYbfAAbNtmpIDLZOHlgE0iaD5WGQKBgHnj5DrQZPvs6FmND3vN\n7b8ME4P7Kx1cyqlrhDVkIkbohiqDtWPJGLcbjxbDJd78tqzvIXdNaF6Yn8874Gf6\n9lpuRXu4CV7LMdoEuq8HFhbsjZgLUeLythVER7D+vcxAgRKlspdSmYMUN8GqFPJO\nbacvvLTT/dk7ysvY1GyfMe1W\n-----END PRIVATE KEY-----\n",
+  "client_email": "bas-971@bee-tracking-6e414.iam.gserviceaccount.com",
+  "client_id": "117021614535574253451",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bas-971%40bee-tracking-6e414.iam.gserviceaccount.com"
+}
